@@ -1,0 +1,6 @@
+__pycache__/
+*.pth
+*.zip
+myenv/
+speech-recognition/
+
